@@ -136,6 +136,8 @@ Write-Host $json
 if ($DryRun) { Write-Host "`n(-DryRun: khong upload, khong push)"; exit 0 }
 
 # --- 3. GitHub Release ---
+# git/gh ghi thông tin bình thường ra stderr; PowerShell 5.1 coi đó là lỗi khi Stop, nên từ đây chỉ dựa vào $LASTEXITCODE.
+$ErrorActionPreference = "Continue"
 Push-Location $Here
 try {
     # Release cần repo có ít nhất một commit trên GitHub.
