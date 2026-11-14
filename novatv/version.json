@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/novatv-v1.6/novatv_1.6.apk",
-    "sha256":  "fb304826506287dad45097cf25cc771afd20906e9c1e17ee7f7488970c84d9a1",
-    "sizeBytes":  225935,
-    "notes":  "Thêm tự cập nhật: từ nay không cần cắm USB để cài bản mới."
+    "versionCode":  8,
+    "versionName":  "1.7",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/novatv-v1.7/novatv_1.7.apk",
+    "sha256":  "48ee94f4284c2dff33b891e1ab06ee2cc4d644687a1a884bf525157659efdaaa",
+    "sizeBytes":  226279,
+    "notes":  "Tự kiểm tra bản mới mỗi khi về màn hình chính; chỉnh giao diện hàng ứng dụng."
 }
