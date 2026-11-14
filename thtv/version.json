@@ -1,8 +1,8 @@
 {
-    "versionCode":  12,
-    "versionName":  "2.1",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.1/thtv_2.1.apk",
-    "sha256":  "d5456d762febf60a36297aaf6e0230e40747badbdcc8d53b08f3f3200235dde4",
-    "sizeBytes":  6216269,
-    "notes":  "Sửa micro trên trang chủ Xiaomi Mi Box, FPT Play box; kéo full màn hình trên tablet, điện thoại (chụm hai ngón)."
+    "versionCode":  13,
+    "versionName":  "2.2",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.2/thtv_2.2.apk",
+    "sha256":  "fb3e1172a788d894c74581c9959189b1aa7f74e381690edad4c838f1e6cdf839",
+    "sizeBytes":  6216320,
+    "notes":  "Thêm link kênh địa phương."
 }
