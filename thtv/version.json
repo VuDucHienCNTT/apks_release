@@ -1,8 +1,8 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.9",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v1.9/thtv_1.9.apk",
-    "sha256":  "5752cab4153a48f1dab95eb85fe1818bab56d3fc6a1af5bb873b29b17c4498fa",
-    "sizeBytes":  6215484,
-    "notes":  "Thêm tự cập nhật: từ nay không cần cắm USB để cài bản mới."
+    "versionCode":  11,
+    "versionName":  "2.0",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.0/thtv_2.0.apk",
+    "sha256":  "4f156cfda82cb8821d9da53591a124d0137308a6fd86f5a87efc02f1a78c157a",
+    "sizeBytes":  6215429,
+    "notes":  "Bấm giữ nút micro 3 giây để kiểm tra cập nhật; bỏ nút chữ che video xem trước trên TV."
 }
