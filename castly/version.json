@@ -1,0 +1,8 @@
+{
+    "versionCode":  12,
+    "versionName":  "1.6.1",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/castly-v1.6.1/castly_1.6.1.apk",
+    "sha256":  "e5af5744783003b5e684154e0df31d10681e94706fefa54eceb7608f7fee19ee",
+    "sizeBytes":  11740389,
+    "notes":  "Thêm tự cập nhật: từ nay không cần cắm USB để cài bản mới."
+}
