@@ -1,0 +1,8 @@
+{
+    "versionCode":  10,
+    "versionName":  "1.9",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v1.9/thtv_1.9.apk",
+    "sha256":  "5752cab4153a48f1dab95eb85fe1818bab56d3fc6a1af5bb873b29b17c4498fa",
+    "sizeBytes":  6215484,
+    "notes":  "Thêm tự cập nhật: từ nay không cần cắm USB để cài bản mới."
+}
