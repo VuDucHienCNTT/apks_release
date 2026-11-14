@@ -1,8 +1,8 @@
 {
-    "versionCode":  2,
-    "versionName":  "1.1",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/bongdatv-v1.1/bongdatv_1.1.apk",
-    "sha256":  "9967646604ee056d8d73d074a756c0b1c9476b2f10f41340fa7ca575ae3e8093",
-    "sizeBytes":  8496132,
-    "notes":  "Thêm tự cập nhật: từ nay không cần cắm USB để cài bản mới."
+    "versionCode":  3,
+    "versionName":  "1.2",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/bongdatv-v1.2/bongdatv_1.2.apk",
+    "sha256":  "35ccd5d279397f4088119c5635df7c34b8b3ac32b42081f929e455d64288f1a5",
+    "sizeBytes":  8496136,
+    "notes":  "Cập nhật link mới cho cả 5 trang; thêm link dự phòng cho Xôi Lạc và Sút Bóng."
 }
