@@ -1,0 +1,8 @@
+{
+    "versionCode":  6,
+    "versionName":  "1.5",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/docbao-v1.5/docbao_1.5.apk",
+    "sha256":  "e451d50e0ef64fdcc1a70659906a5cde6f58e4bcac4735394c8523bcd28926c1",
+    "sizeBytes":  1649992,
+    "notes":  "Thêm tự cập nhật: từ nay không cần cắm USB để cài bản mới."
+}
