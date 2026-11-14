@@ -1,0 +1,3 @@
+# APK chỉ nằm ở GitHub Releases, không commit
+*.apk
+/usb/
