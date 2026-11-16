@@ -1,8 +1,8 @@
 {
-    "versionCode":  8,
-    "versionName":  "1.7",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/novatv-v1.7/novatv_1.7.apk",
-    "sha256":  "48ee94f4284c2dff33b891e1ab06ee2cc4d644687a1a884bf525157659efdaaa",
-    "sizeBytes":  226279,
-    "notes":  "Tự kiểm tra bản mới mỗi khi về màn hình chính; chỉnh giao diện hàng ứng dụng."
+    "versionCode":  9,
+    "versionName":  "1.8",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/novatv-v1.8/novatv_1.8.apk",
+    "sha256":  "6309543e27e0caf714a3e7b777ffbdab28e54d63dee5b5cf8d6df848ea637608",
+    "sizeBytes":  223411,
+    "notes":  "Tăng bảo mật: chống dịch ngược, kiểm tra chữ ký khi chạy."
 }
