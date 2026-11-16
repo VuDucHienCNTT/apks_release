@@ -1,8 +1,8 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.6.2",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/castly-v1.6.2/castly_1.6.2.apk",
-    "sha256":  "c5828d7350df004c2133858829865b5350f1dab2e78dbe09236393b9aa2c7cf4",
-    "sizeBytes":  11742909,
-    "notes":  "Điều khiển TV mượt hơn: nút Back quay về Gửi tệp trước khi thoát, di chuyển menu bên không còn giật. Điện thoại/tablet: các trang cuộn được, Cài đặt không còn bị cắt."
+    "versionCode":  14,
+    "versionName":  "1.6.3",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/castly-v1.6.3/castly_1.6.3.apk",
+    "sha256":  "c622a4a7fe01738ccc371a2f5990a422b4cf5653278755f796c8fc18357e975b",
+    "sizeBytes":  11743521,
+    "notes":  "Sửa lỗi mã QR ở tab Wi-Fi/LAN hay đứng ở \u0027Đang khởi động…\u0027: QR hiện ngay, tự cập nhật khi TV đổi địa chỉ IP hoặc vừa có mạng lại."
 }
