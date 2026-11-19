@@ -1,8 +1,8 @@
 {
-    "versionCode":  14,
-    "versionName":  "2.3",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.3/thtv_2.3.apk",
-    "sha256":  "8acce464494199c857822150a4a94d52565c95f199cc553725c11082c8d7f514",
-    "sizeBytes":  6232715,
-    "notes":  "Phân giải tên miền qua DNS-over-HTTPS để xem được trên mạng chặn DNS (Viettel)."
+    "versionCode":  15,
+    "versionName":  "2.4",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.4/thtv_2.4.apk",
+    "sha256":  "bb5e0a8e72aa0bc6bf66cc124048e1735e405748ac96d3b0831bf119ddf79676",
+    "sizeBytes":  6232719,
+    "notes":  "TV: bấm OK để mở danh sách kênh; bảng chọn kênh gọn hơn, hàng nhóm co giãn kín màn hình, không còn ô kênh bị cắt nửa."
 }
