@@ -1,8 +1,8 @@
 {
-    "versionCode":  15,
-    "versionName":  "1.7.0",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/castly-v1.7.0/castly_1.7.0.apk",
-    "sha256":  "858c8eb6512e4141f7e12ba46cc03598fdb09493b1df60cf0fa8ee80e9dfb95f",
-    "sizeBytes":  11765138,
-    "notes":  "Giao diện riêng cho điện thoại (dọc, menu dưới), bỏ chiếu màn hình trên điện thoại, bảng màu mới"
+    "versionCode":  16,
+    "versionName":  "1.8.0",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/castly-v1.8.0/castly_1.8.0.apk",
+    "sha256":  "d61754c6ccd89cb8792b143ecf045f2c4430e815c881019099d20533ef988f5f",
+    "sizeBytes":  11768006,
+    "notes":  "Máy tính bảng xoay dọc được (menu dưới), ngang chia đều QR và Tệp đã nhận, QR to hơn; khởi động nhanh hơn"
 }
