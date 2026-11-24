@@ -1,8 +1,8 @@
 {
-    "versionCode":  16,
-    "versionName":  "1.8.0",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/castly-v1.8.0/castly_1.8.0.apk",
-    "sha256":  "d61754c6ccd89cb8792b143ecf045f2c4430e815c881019099d20533ef988f5f",
-    "sizeBytes":  11768006,
-    "notes":  "Máy tính bảng xoay dọc được (menu dưới), ngang chia đều QR và Tệp đã nhận, QR to hơn; khởi động nhanh hơn"
+    "versionCode":  17,
+    "versionName":  "1.8.1",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/castly-v1.8.1/castly_1.8.1.apk",
+    "sha256":  "3f7670385166b012aadb1544a966d8ddba95e163a1c08928e0a43b337f75e5d8",
+    "sizeBytes":  11771230,
+    "notes":  "Sửa lỗi không cập nhật được trên Xiaomi/Redmi (MIUI): ghi rõ nguyên nhân, cách khắc phục và mở trình cài đặt của Android"
 }
