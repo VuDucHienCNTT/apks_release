@@ -1,8 +1,8 @@
 {
-    "versionCode":  6,
-    "versionName":  "1.5",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/docbao-v1.5/docbao_1.5.apk",
-    "sha256":  "e451d50e0ef64fdcc1a70659906a5cde6f58e4bcac4735394c8523bcd28926c1",
+    "versionCode":  7,
+    "versionName":  "1.6",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/docbao-v1.6/docbao_1.6.apk",
+    "sha256":  "c5198d627503acb09a9def13a8407bef29f0f2c95c8a6b7c400252e5220df1af",
     "sizeBytes":  1649992,
-    "notes":  "Thêm tự cập nhật: từ nay không cần cắm USB để cài bản mới."
+    "notes":  "Hỗ trợ điện thoại và tablet dọc: giao diện tự đổi theo màn hình, điện thoại mở bản mobile của báo."
 }
