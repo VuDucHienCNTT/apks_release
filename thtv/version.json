@@ -1,8 +1,8 @@
 {
-    "versionCode":  15,
-    "versionName":  "2.4",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.4/thtv_2.4.apk",
-    "sha256":  "bb5e0a8e72aa0bc6bf66cc124048e1735e405748ac96d3b0831bf119ddf79676",
-    "sizeBytes":  6232719,
-    "notes":  "TV: bấm OK để mở danh sách kênh; bảng chọn kênh gọn hơn, hàng nhóm co giãn kín màn hình, không còn ô kênh bị cắt nửa."
+    "versionCode": 16,
+    "versionName": "2.5",
+    "apkUrl": "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.5/thtv_2.5.apk",
+    "sha256": "931f2ef5f0395f162c8f81de1c3f6afcfd3b731cdfdade8672d0d0ab38204cf5",
+    "sizeBytes": 6251271,
+    "notes": "Điện thoại / máy tính bảng: khi xem toàn màn hình, vuốt thanh bên trái để chỉnh độ sáng, bên phải để chỉnh âm lượng. Sửa link VTV5 Tây Nguyên; VTV5 Tây Nam Bộ và Tây Nguyên chuyển xuống sau QPVN."
 }
