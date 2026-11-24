@@ -1,8 +1,8 @@
 {
-    "versionCode": 16,
-    "versionName": "2.5",
-    "apkUrl": "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.5/thtv_2.5.apk",
-    "sha256": "931f2ef5f0395f162c8f81de1c3f6afcfd3b731cdfdade8672d0d0ab38204cf5",
-    "sizeBytes": 6251271,
-    "notes": "Điện thoại / máy tính bảng: khi xem toàn màn hình, vuốt thanh bên trái để chỉnh độ sáng, bên phải để chỉnh âm lượng. Sửa link VTV5 Tây Nguyên; VTV5 Tây Nam Bộ và Tây Nguyên chuyển xuống sau QPVN."
+    "versionCode": 17,
+    "versionName": "2.6",
+    "apkUrl": "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.6/thtv_2.6.apk",
+    "sha256": "d8d5e576ddbbe7be2b878f7bb948e8eee4c4574d7ff45eb6d76bd605a1f1c63c",
+    "sizeBytes": 6234874,
+    "notes": "Máy tính bảng: khi thu nhỏ mà màn hình vẫn nằm ngang, video bên trái và danh sách kênh bên phải; sửa lỗi video bị kẹt ở góc khi vào toàn màn hình. VTV5 Tây Nam Bộ và Tây Nguyên chuyển lên ngay sau VTV10."
 }
