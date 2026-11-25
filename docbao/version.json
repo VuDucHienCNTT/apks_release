@@ -1,8 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.6",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/docbao-v1.6/docbao_1.6.apk",
-    "sha256":  "c5198d627503acb09a9def13a8407bef29f0f2c95c8a6b7c400252e5220df1af",
-    "sizeBytes":  1649992,
-    "notes":  "Hỗ trợ điện thoại và tablet dọc: giao diện tự đổi theo màn hình, điện thoại mở bản mobile của báo."
+    "versionCode":  8,
+    "versionName":  "1.7",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/docbao-v1.7/docbao_1.7.apk",
+    "sha256":  "20d65071dce43ed1b77ed1e666f60a942542e9443d51e0d04993a727290982fe",
+    "sizeBytes":  1769888,
+    "notes":  "Thêm Tin RSS: tin mới của 7 báo (VnExpress, Dân Trí, Tuổi Trẻ, Thanh Niên, VTV, Bnews, Nhân Dân), đọc to và lệnh giọng nói, điều khiển bằng remote TV."
 }
