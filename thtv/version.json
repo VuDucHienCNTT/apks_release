@@ -1,8 +1,8 @@
 {
-    "versionCode":  18,
-    "versionName":  "2.7",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.7/thtv_2.7.apk",
-    "sha256":  "e1a70aaf679067163817befd8567736a4fa2c5d8b78b7f4249a7ab425433fb04",
-    "sizeBytes":  6235067,
-    "notes":  "Tên kênh tiếng Việt có dấu, thêm Bắc Ninh, Phú Thọ, Đà Nẵng 2, Lâm Đồng 2. TV: màn chọn kênh khi đang xem được làm mới."
+    "versionCode":  19,
+    "versionName":  "2.8",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.8/thtv_2.8.apk",
+    "sha256":  "a7406ab2c87c0a6310ebc63a13d37be4556a33b589db36fba7ffecf6c3970afe",
+    "sizeBytes":  6235068,
+    "notes":  "TV: ô kênh đang chọn có viền vàng thay cho toả sáng đỏ, chấm đỏ đánh dấu kênh đang xem to hơn."
 }
