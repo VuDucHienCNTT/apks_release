@@ -1,8 +1,8 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.8",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/novatv-v1.8/novatv_1.8.apk",
-    "sha256":  "6309543e27e0caf714a3e7b777ffbdab28e54d63dee5b5cf8d6df848ea637608",
-    "sizeBytes":  223411,
-    "notes":  "Tăng bảo mật: chống dịch ngược, kiểm tra chữ ký khi chạy."
+    "versionCode":  10,
+    "versionName":  "1.9",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/novatv-v1.9/novatv_1.9.apk",
+    "sha256":  "d88b99c175473b5d66e2134decdd40f9692df098430d4ccc09e5f3e0e02c5c1d",
+    "sizeBytes":  223923,
+    "notes":  "Bảng chọn kênh gọn hơn: mỗi hàng 6 ô thẳng hàng với tên nhóm, cuộn tròn theo ô; Lên/Xuống giữ nguyên cột."
 }
