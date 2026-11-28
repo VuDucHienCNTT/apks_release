@@ -1,8 +1,8 @@
 {
-    "versionCode":  19,
-    "versionName":  "2.8",
-    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.8/thtv_2.8.apk",
-    "sha256":  "a7406ab2c87c0a6310ebc63a13d37be4556a33b589db36fba7ffecf6c3970afe",
-    "sizeBytes":  6235068,
-    "notes":  "TV: ô kênh đang chọn có viền vàng thay cho toả sáng đỏ, chấm đỏ đánh dấu kênh đang xem to hơn."
+    "versionCode":  20,
+    "versionName":  "2.9",
+    "apkUrl":  "https://github.com/VuDucHienCNTT/apks_release/releases/download/thtv-v2.9/thtv_2.9.apk",
+    "sha256":  "53424bf8ff70a560da171171ad12789c7705187b995e67810407e5a2def907d3",
+    "sizeBytes":  6235075,
+    "notes":  "TV: bảng chọn kênh hết rung khi chuyển kênh; mỗi hàng 6 ô thẳng hàng với tên nhóm, bố cục gọn hơn."
 }
